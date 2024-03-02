@@ -1,5 +1,5 @@
-#!pip install python-docx PyPDF2 nltk docx2txt pymupdf
-#!python -m spacy download en_core_web_lg
+!pip install python-docx PyPDF2 nltk docx2txt pymupdf
+!python -m spacy download en_core_web_lg
 #Importing necessary libraries
 from urllib.parse import urlparse
 import docx
